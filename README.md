@@ -250,7 +250,7 @@ Operating Systems
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thota-rojasree-19&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=thota-rojasree-19&theme=github-dark" />
 </p>
 ---
 
@@ -267,7 +267,7 @@ Operating Systems
 # 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thota-rojasree-19&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thota-rojasree-19&theme=algolia&no-frame=true" />
 </p>
 
 ---
