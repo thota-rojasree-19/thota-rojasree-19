@@ -264,13 +264,6 @@ Operating Systems
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thota-rojasree-19&theme=algolia&no-frame=true&margin-w=15" />
-</p>
----
-
 # 🌐 Connect with Me
 
 <p align="center">
