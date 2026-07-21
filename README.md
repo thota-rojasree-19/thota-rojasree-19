@@ -74,77 +74,7 @@ Python Developer • MERN Stack Developer • AI & Machine Learning Enthusiast
 | 🛒 **NeoKart** | Full-stack e-commerce platform | Node.js, Express.js, MySQL |
 
 
-
-# 🧠 Technical Skills
-
-### Programming Languages
-
-🐍 Python
-
-☕ Java (Familiar)
-
-JavaScript
-
 ---
-
-### Web Development
-
-React.js
-
-Node.js
-
-Express.js
-
-MERN Stack
-
-Flask
-
-FastAPI
-
-REST APIs
-
-HTML5
-
-CSS3
-
-Bootstrap
-
-Tailwind CSS
-
----
-
-### Databases
-
-MongoDB
-
-MySQL
-
----
-
-### Machine Learning
-
-TensorFlow
-
-Keras
-
-OpenCV
-
-Deep Learning
-
-Image Classification
-
----
-
-### Computer Science
-
-Data Structures & Algorithms
-
-Object-Oriented Programming
-
-Operating Systems
-
----
-
 # 📜 Certifications
 
 🏅 Python Full Course – GeeksforGeeks
@@ -157,18 +87,18 @@ Operating Systems
 
 # 🏆 Achievements
 
-🥇 Solved **300+ LeetCode** problems in Python.
+<p align="center">
 
-🥇 Solved **200+ GeeksforGeeks** problems.
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-💡 Strong problem-solving skills in
+<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-200%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-- Dynamic Programming
-- Graphs
-- Trees
-- Sliding Window
-- Backtracking
-- Recursion
+</p>
+
 
 ---
 
