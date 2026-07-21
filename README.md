@@ -1,133 +1,28 @@
-<h1 align="center">Hi 👋, I'm Thota Rojasree</h1>
-<h3 align="center">Python Developer | MERN Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Rojasree Thota</h1>
+
+<h3 align="center">
+Python Developer • MERN Stack Developer • AI & Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Developer;Python+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects"/>
 </p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 B.Tech in Computer Science Engineering
-- 💻 Passionate about Full Stack Development and Artificial Intelligence
-- 🌱 Currently learning **Azure, SQL Server & Generative AI**
-- 🚀 Love building scalable web applications
-- 🧩 Strong problem-solving and DSA skills
-- 📫 Reach me at **your-email@gmail.com**
-
----
-
-## 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,react,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,vscode,postman,vite" />
-
-</p>
-
----
-
-# 🌟 Featured Projects
-
-### 🤖 HairSense
-AI-powered Hair Health Detection System
-
-✔ Hair Analysis using AI
-
-✔ Personalized Recommendations
-
-✔ MERN + TensorFlow
-
-✔ MongoDB
-
----
-
-### 💬 SmartConnect AI
-
-Real-time AI Communication Platform
-
-✔ Chat Application
-
-✔ Socket.IO
-
-✔ JWT Authentication
-
-✔ Image Sharing
-
-✔ Voice Messages
-
-✔ AI Integration
-
----
-
-### 📚 Online eBook Store
-
-✔ Full Stack Web Application
-
-✔ Razorpay Payment Gateway
-
-✔ PHP
-
-✔ MySQL
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:rojii3824@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://linkedin.com/in/thota-rojasree-8b15b3280">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://github.com/thota-rojasree-19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-ruby-kappa-5ovx2sp36d.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -135,11 +30,271 @@ Real-time AI Communication Platform
 
 ---
 
-## 👀 Visitors
+# 👩‍💻 About Me
+
+🎓 B.Tech Computer Science Engineering (2022–2026)
+
+🏫 RGUKT RK Valley
+
+💙 Passionate about building Full Stack Applications and AI-powered solutions.
+
+🌱 Currently learning
+
+- Azure
+- SQL Server
+- Generative AI
+- FastAPI
+
+💼 Interested in
+
+- Software Development
+- Full Stack Development
+- Backend Development
+- Machine Learning
+- Artificial Intelligence
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind,git,github,vscode,postman,vercel,render"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 HairSense – AI-Based Hair & Scalp Health Detection System
+
+✔ Python
+
+✔ FastAPI
+
+✔ TensorFlow
+
+✔ OpenCV
+
+✔ Machine Learning
+
+✔ REST API
+
+✔ Responsive Frontend
+
+---
+
+## 💬 SmartConnect – Real-Time Communication Hub
+
+✔ MERN Stack
+
+✔ Socket.IO
+
+✔ JWT Authentication
+
+✔ Real-Time Chat
+
+✔ Voice Notes
+
+✔ File Sharing
+
+✔ Group Chat
+
+✔ Tailwind CSS
+
+---
+
+## 📚 Online EBook Store
+
+✔ MERN Stack
+
+✔ Razorpay Payment Gateway
+
+✔ MySQL
+
+✔ REST APIs
+
+✔ PDF Download System
+
+✔ Authentication
+
+---
+
+## 🛒 NeoKart
+
+✔ E-Commerce Platform
+
+✔ Node.js
+
+✔ Express.js
+
+✔ MySQL
+
+✔ Bootstrap
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+---
+
+# 🧠 Technical Skills
+
+### Programming Languages
+
+🐍 Python
+
+☕ Java (Familiar)
+
+JavaScript
+
+---
+
+### Web Development
+
+React.js
+
+Node.js
+
+Express.js
+
+MERN Stack
+
+Flask
+
+FastAPI
+
+REST APIs
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+Tailwind CSS
+
+---
+
+### Databases
+
+MongoDB
+
+MySQL
+
+---
+
+### Machine Learning
+
+TensorFlow
+
+Keras
+
+OpenCV
+
+Deep Learning
+
+Image Classification
+
+---
+
+### Computer Science
+
+Data Structures & Algorithms
+
+Object-Oriented Programming
+
+Operating Systems
+
+---
+
+# 📜 Certifications
+
+🏅 Python Full Course – GeeksforGeeks
+
+🏅 Large Language Models – NPTEL IIT Madras
+
+🏅 Deep Learning – NPTEL IIT Ropar
+
+---
+
+# 🏆 Achievements
+
+🥇 Solved **300+ LeetCode** problems in Python.
+
+🥇 Solved **200+ GeeksforGeeks** problems.
+
+💡 Strong problem-solving skills in
+
+- Dynamic Programming
+- Graphs
+- Trees
+- Sliding Window
+- Backtracking
+- Recursion
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thota-rojasree-19&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thota-rojasree-19&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=thota-rojasree-19&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thota-rojasree-19&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thota-rojasree-19&theme=onedark&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="mailto:rojii3824@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/thota-rojasree-8b15b3280">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://portfolio-ruby-kappa-5ovx2sp36d.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
 </p>
 
@@ -147,6 +302,14 @@ Real-time AI Communication Platform
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+![](https://komarev.com/ghpvc/?username=thota-rojasree-19&style=for-the-badge&color=blue)
 
 </p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
