@@ -64,82 +64,16 @@ Python Developer • MERN Stack Developer • AI & Machine Learning Enthusiast
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
-## 🤖 HairSense – AI-Based Hair & Scalp Health Detection System
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **HairSense** | AI-powered hair & scalp health detection system | Python, FastAPI, TensorFlow, OpenCV |
+| 💬 **SmartConnect** | Real-time chat application with authentication & file sharing | MERN, Socket.IO, JWT |
+| 📚 **Online EBook Store** | Digital bookstore with Razorpay integration | MERN, MySQL, Razorpay |
+| 🛒 **NeoKart** | Full-stack e-commerce platform | Node.js, Express.js, MySQL |
 
-✔ Python
 
-✔ FastAPI
-
-✔ TensorFlow
-
-✔ OpenCV
-
-✔ Machine Learning
-
-✔ REST API
-
-✔ Responsive Frontend
-
----
-
-## 💬 SmartConnect – Real-Time Communication Hub
-
-✔ MERN Stack
-
-✔ Socket.IO
-
-✔ JWT Authentication
-
-✔ Real-Time Chat
-
-✔ Voice Notes
-
-✔ File Sharing
-
-✔ Group Chat
-
-✔ Tailwind CSS
-
----
-
-## 📚 Online EBook Store
-
-✔ MERN Stack
-
-✔ Razorpay Payment Gateway
-
-✔ MySQL
-
-✔ REST APIs
-
-✔ PDF Download System
-
-✔ Authentication
-
----
-
-## 🛒 NeoKart
-
-✔ E-Commerce Platform
-
-✔ Node.js
-
-✔ Express.js
-
-✔ MySQL
-
-✔ Bootstrap
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
----
 
 # 🧠 Technical Skills
 
